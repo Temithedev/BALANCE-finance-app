@@ -1,10 +1,10 @@
 # Balance
 
-Balance is a finanace application built with Flutter.
+Balance is a finance application built with Flutter.
 
 ## Inspiration
 
-Link to Design on [Figma](https://www.figma.com/community/file/893381127703378146)
+Link to Design on [Behance](https://www.behance.net/gallery/105862653/Mobile-Banking-App?tracking_source=search_projects%7Cpuba%20finance%20ui)
 
 ## Screenshots
 

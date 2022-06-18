@@ -1,16 +1,22 @@
-# last_layout
+# Balance
 
-A new Flutter project.
+Balance is a finanace application built with Flutter.
 
-## Getting Started
+## Inspiration
 
-This project is a starting point for a Flutter application.
+Link to Design on [Figma](https://www.figma.com/community/file/893381127703378146)
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+| Onboarding Screen | Onboarding Screen | 
+|    :---:     |     :---:      |  
+| <img src="screenshots/onboarding_one.png" width="500">   | <img src="screenshots/onboarding_two.png" width="500">   |
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+| Sign In Screen | Registration Screen | 
+|    :---:     |     :---:      |  
+| <img src="screenshots/sign_in.png" width="500">   | <img src="screenshots/create_account.png" width="500">   |
+
+
+| Registration Success Screen | Dashboard Screen | 
+|    :---:     |     :---:      |  
+| <img src="screenshots/registration_success.png" width="500">   | <img src="screenshots/dashboard.png" width="500">   |
